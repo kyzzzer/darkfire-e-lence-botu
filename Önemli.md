@@ -1,2 +1,2 @@
-# darkfire-e-lence-botu
+Darkfire | KYZER#0387 | Kurucu
 Darkfire Tarafından Hazırlanmış Bir Eğlence Botu Altyapısı İyi Kullanmalar....
